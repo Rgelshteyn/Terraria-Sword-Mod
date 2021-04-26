@@ -1,0 +1,3 @@
+displayName = RGMODsword
+author = worst in lobby
+version = 0.1
