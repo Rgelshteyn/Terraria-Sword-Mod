@@ -2,7 +2,7 @@
 # Python 1051 Final Project 
 # Raphael Gelshteyn 
 # See other repository for preposal and Proposal along side the Progress report
-# to access the main file go to Items.... Newsword.cs 
+# to access the main file go to Items then Newsword.cs 
 
 # Recources used include 
  https://forums.terraria.org/index.php?threads/tutorial-1-getting-started-with-tmodloader.44817/
